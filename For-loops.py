@@ -1,4 +1,4 @@
-# CHAT FIRST # Input: positive integer n
+#  # Input: positive integer n
 # n = int(input("Enter a positive integer: "))
 
 # # Initialize sum variable
@@ -207,9 +207,25 @@
 # # Output the result
 # print("The second largest number is:", second_largest)
 
-n = int(input("ENter the number"))
-sum = 0
-for i in range(3, n):
-    if i%5==0 or i%3==0:
-        sum+= i
-print(sum)
+
+# n = int(input("ENter the number"))
+# sum = 0
+# for i in range(3, n):
+#     if i%5==0 or i%3==0:
+#         sum+= i
+# print(sum)
+
+
+# a = 10
+# b = 20
+# for i in range(a, b):
+#     if i%1==0 and i%i==0:
+#         print(i) 
+
+
+# a = [2, 3, 4, 5]
+# mul = 1
+# for i in a:
+#     mul*= 1
+# print(mul)
+
